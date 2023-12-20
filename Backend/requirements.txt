@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+confluent_kafka
+typing
+asyncio
+logging
